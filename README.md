@@ -5,11 +5,14 @@
   - Right Outer Join
 
 ## Left Outer Join
-**All rows of the left table**, _even if they do not satisfy the matching condition_, and the **matching rows of the right table** are displayed in the output.
+### The output is comprised of... 
+- **All rows** of the **left** table, _even if they do not satisfy the matching condition_
+- The **matching rows** of the **right** table 
 
 ## Right Outer Join
-**All rows of the right table**, _even if they do not satisfy the matching condition_, and the **matching rows of the left table** are displayed in the output.
-
+### The output is comprised of... 
+- **All rows** of the **right** table, _even if they do not satisfy the matching condition_
+- The **matching rows** of the **left** table 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
