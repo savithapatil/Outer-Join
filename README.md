@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/savithapatil/Outer-Join/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# The Outer Join
+- All the records of one table along with the matching records of another table make up the output
+- Types:
+ - Left Outer Join
+ - Right Outer Join
 
 ### Markdown
 
