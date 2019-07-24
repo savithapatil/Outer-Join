@@ -18,7 +18,7 @@
 
 ![Image](https://lh3.googleusercontent.com/RisAPk3UDtQktyGgNwKC8KqY_dfp1MMqpsqnISzfyL8BxvPUgeTHjezev5Layw0GRl2oUS1E_Z2KrTCb-RbAgWGz8aDIPEMebjpiWsWyp3SVUXEGsF0sUoxbZgJdQBVsLJpHk-SArV1MkLnXb82n4zs1OIo9rXz-_Bv1YsXvpIERbfYDQmXq6FKe8_s6oYMklafgdjZixIuzKvCXOB-3RRzB-RxadMyfhPOLZBJkBee2HMqE3gIOanoJyeRiyo_weItqtedZezE3iBDc9omMjr3um3QtFrb5dbWIXzRyoPGISPdbiB38ksIh2Oa8gZAY_03xLqnNw_jSV5vG9tzXJxr0fn2LCD_Zn6x9SLCORH4dSsSW_BxffwEH0JijkOwAb-zXZo4F-JqfgTPATmrBOJ5hTXZ3vcHzzjVCrdZdKkmR52SCO-tOD47-Ct4bx-D4gCNNG8AdXVYv9ahm6UZQrlbD6zxXLp1cCRrPJ6OH0pTipk6rvZAWAsYHvhZ-40u0aQ_cTxyvH1iw2pTcucEvLxipkMer_dSUdQ0ZxEp46IBxPoBOiNTaFatZArECoqGUYy28vhBcyohJCY_QYjEwEPHujw9Xzty_3HmjMoq2StvYiMOehqk7UMPYBVd5gSpPaEEflUZIzyR1XeuONIDyw2taqWbKUPDC=w812-h147-no)
 
-### The `SELECT` statement shows which columns between the two tables are going to be included in the output.
+### The `SELECT` statement shows which columns between the two tables are going to be included in the output:
 ```
 SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 ```
