@@ -55,6 +55,7 @@ FROM Orders LEFT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 FROM Orders RIGHT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 . . . **All records** from the **right** table and **matching rows** from the **left** table are highlighted below
+
 ![Image](https://lh3.googleusercontent.com/-Bko_5vSw9O0TyAhO_1mH_4Gm54fiLISZLniYXDyp-DUaOimGjUjcc-4bmA1FHwDrS-zjCToTxtO9vta3Ku4cz_kwvj-MMeV-n0Z241yer3aht_MXLYEny83QMXDPnC7-ed24XW-8lsh76btQkGOpMuv0EZOAIU9pMCLfq1gue41jHeTL9JGyczpRtZXTpSFNFfVs9mlvgGrilF2XGvEYz52m0wVQsZuyGyxiSlIvn7SvNPsF8j2CPIMRAeS1iw5mQElPf91FMub3LMQaXIi6EWhU3ZJTOm0faix_SJha3JcGFjI__HuB98bkKzWnBFt21SHkrBQsBXTE54UtMLEQcHst6mFzxHxf_02UJLveKJggm-UeLjw4FqgfAKUCSwOD_htncjWEWtAAsZ_JfiEWmSKORxSB0Y-aUAD43OyW84JZxBE3663APmu5IiqlHoMWIFPiNXYjDZtglYUodpUv1tbGV5qDktmnLimEFxvHBNsbwtNL9bfIVnv3WJ2qtTHHVKjut6JFBHXMU6eGtGjtSjXigd7p5fG1REenguk0nrTOS1JeDDQD5lCIlGVUmmnAt852NbKlJuDPwWQDwDuqiVYaoz7ic9_ziGi1UBayILg-CqqNiXUKYZgqUhv8RLPBejIWHO5BoeWXN-T9vu7qUQ3y0bYsgkr=w1399-h173-no)
 
 ### Together, the query below . . .
@@ -63,5 +64,6 @@ SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 FROM Orders RIGHT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 ### . . . results in the following output:
+
 ![Image](https://lh3.googleusercontent.com/hIMRaROa9uoIewcCIaZUU16QHtMnnJN60P3gfCJGTavQxdrOgM8h7rxjrw_gRW_rgCoJ6UnXChRjAJpAbLqOMtQSYGtA2amzSQ7hLujOKANcajQ_R7daRyA2YVueajS0dBN3unf2884YTj1ay0eceDyu6ohDnaDQBqvjBK9t8-Acg8xxKUfAJ8yhFyoNPyabCNc6kMUnxpW0oRVKWdTNBAw_Y2P8NgB02yuuTCuH971lwUwDT0rfHQu6G-v-g8Bu7c4z7ewRKZXikugo9f4tiLI1vasQw11jpa5kuIrLRrUe4ere8KAEQPHMyOXj1vQ-2PtrG6Jfi8DaImNc3gQKjlAIHMALx4ej_CA8rOI1B-xsWzAZsG--Rwm93wFc3gZcRpKKLo8HigXr24eUUBsMKgMZoMi88pDH0fWCpUQ2rMwP-e9Sc4Qi9udiU15gNlHgu5Fyili9m_knNlPBzODQpu5hjJQAWbFdMqbUU_EKnfrFkwnTgAOoIh0LEpffBEaEk1zSStmretDL1xmY7T-l-FfFmznE_tMUeU0rY_3_P1DLm-Vp490Lj9N-3izKW3L_fb0nFrdGxPOcu6ZzZnwD0Hc_dWRXcurJ6AotEQQuWRpKe7yiVukprSxinPwwu3XffwRfygX5pV9cgSJCuU4F3Iyfwyj3kc-K=w966-h199-no)
 
