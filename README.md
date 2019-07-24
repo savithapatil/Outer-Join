@@ -5,12 +5,12 @@
   - Right Outer Join
 
 ## Left Outer Join
-### The output is comprised of... 
+### The output is comprised of . . .  
 - **All rows** of the **left** table, _even if they do not satisfy the matching condition_
 - The **matching rows** of the **right** table 
 
 ## Right Outer Join
-### The output is comprised of... 
+### The output is comprised of . . .  
 - **All rows** of the **right** table, _even if they do not satisfy the matching condition_
 - The **matching rows** of the **left** table 
 
