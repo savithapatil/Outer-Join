@@ -27,10 +27,10 @@ FROM Orders LEFT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ### The query below. . .
 ``` 
 SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+FROM Orders LEFT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 ### . . .results in the following output:
-
-![Image]()
+![Image](https://lh3.googleusercontent.com/rzRj4Rz3xntcvhdz8Ervtfk6qWme6ASXthcNhgDzj3X04-4HcObgS9MnePxMjLQ4nDnTesc4RVUThjsHqmexF-6XoJIwwEZjOJB5m1c1_GpgCYBsH9Dw7tVTVhK2o3fWvOtJHar1a_Gi_wTE4HwsoS6noWdUHBRFdBExZ8QLFFImGbWpccoZ8tjfpRDl7EEddmBmryOsW0Rlc3o5UpHweIuFqiPHSTh0mbY3nj7NbNnytKM8rvsAyFpz3ckVvmqbNgB4LqxZOYRlZAcMC0Erqa-xcG3speXJlB5jSNPh1KpI2oN9Ou01acsMBpD9g-JoBRDh25ignXP43uSYiQkz7_2Z--5fT5_OjIbhtW69sDuJ0LOw1_cZ_gvf4k2nesPCQ3A01EBJpKPUdLVmxAfHN0KNvX87TMyQmZFHKzQl-_MkclGOHyXKxOvPvmzQhTbB7d96WitVth_ALgiCh-3J4z4rzHEsGsHQXdJ8ahzSBLu70fk7g75KTn5VZ-DPYrfQq4aU3yosA0YSNzg39EyY1x1pXDCBz09cwji4FlYX3db6WsisxhTlv7ZYw1EjHbMQ2OlzIx4uaQdCOb6j0XvsQDwBgZOIuUdALm4rs2yEkK9JClxB_9F2onReIgDsFoEZdQAtsnph9eTQj7nrQ6hBJ7Egf5vlnQSk=w954-h198-no)
 
 ## Right Outer Join
 ### The output is comprised of. . .  
