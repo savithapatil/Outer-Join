@@ -8,11 +8,13 @@
 ### The output is comprised of . . .  
 - **All rows** of the **left** table, _even if they do not satisfy the matching condition_
 - The **matching rows** of the **right** table 
+- 'NULL' in the spaces that come from the **right** table _where the matching condition is not satisfied_
 
 ## Right Outer Join
 ### The output is comprised of . . .  
 - **All rows** of the **right** table, _even if they do not satisfy the matching condition_
 - The **matching rows** of the **left** table 
+- 'NULL' in the spaces that come from the **left** table _where the matching condition is not satisfied_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
