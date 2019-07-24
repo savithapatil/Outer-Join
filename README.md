@@ -1,8 +1,8 @@
 # The Outer Join
 - All the records of one table along with the matching records of another table make up the output
 - Types:
- - Left Outer Join
- - Right Outer Join
+  - Left Outer Join
+  - Right Outer Join
 
 ### Markdown
 
