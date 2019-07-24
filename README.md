@@ -5,7 +5,7 @@
   - Right Outer Join
 
 ## Left Outer Join
-### The output is comprised of. . .  
+### The output is comprised of . . .  
 - **All rows** of the **left** table, _even if they do not satisfy the matching condition_
 - The **matching rows** of the **right** table 
 - `NULL` in the spaces that come from the **right** table _where the matching condition is not satisfied_
