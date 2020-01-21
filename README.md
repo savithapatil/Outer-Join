@@ -58,7 +58,7 @@ FROM Orders RIGHT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 . . . **All records** from the **right** table and **matching rows** from the **left** table are highlighted below
 
-![Image](https://lh3.googleusercontent.com/-Bko_5vSw9O0TyAhO_1mH_4Gm54fiLISZLniYXDyp-DUaOimGjUjcc-4bmA1FHwDrS-zjCToTxtO9vta3Ku4cz_kwvj-MMeV-n0Z241yer3aht_MXLYEny83QMXDPnC7-ed24XW-8lsh76btQkGOpMuv0EZOAIU9pMCLfq1gue41jHeTL9JGyczpRtZXTpSFNFfVs9mlvgGrilF2XGvEYz52m0wVQsZuyGyxiSlIvn7SvNPsF8j2CPIMRAeS1iw5mQElPf91FMub3LMQaXIi6EWhU3ZJTOm0faix_SJha3JcGFjI__HuB98bkKzWnBFt21SHkrBQsBXTE54UtMLEQcHst6mFzxHxf_02UJLveKJggm-UeLjw4FqgfAKUCSwOD_htncjWEWtAAsZ_JfiEWmSKORxSB0Y-aUAD43OyW84JZxBE3663APmu5IiqlHoMWIFPiNXYjDZtglYUodpUv1tbGV5qDktmnLimEFxvHBNsbwtNL9bfIVnv3WJ2qtTHHVKjut6JFBHXMU6eGtGjtSjXigd7p5fG1REenguk0nrTOS1JeDDQD5lCIlGVUmmnAt852NbKlJuDPwWQDwDuqiVYaoz7ic9_ziGi1UBayILg-CqqNiXUKYZgqUhv8RLPBejIWHO5BoeWXN-T9vu7qUQ3y0bYsgkr=w1399-h173-no)
+![Image](/img7.png)
 
 ### Together, the query below . . .
 ```
