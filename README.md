@@ -25,7 +25,7 @@ SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 ```
 ![Image](/img4.png)
 
-![Image](https://lh3.googleusercontent.com/xuDlVE8arBCH7VaX0arAaXPJWFiC86iqdZAlKLVGfyoEBD6HPHdFqKUXvTj8acankhQPz78iM766CB9RTqNw9SRNvBRX-iLw9ZFFu9iO2a73VXvbwgwt9jGToe8_3dRTnTAI6baE6b69KzGKaKH-izqrU7Q3ZnxEx7iy8OFV6U_YYL8benMcBqsXTHxFSZ1PMmd1Xc-_74hI4_gmO0QgNJdEeBAS9y3D52tt3sGpHPdsfoZd4V2xf1yk_69pLcfMwQqFYqTD2EU5coNODwdzcpm94JfPEj0Cnc6fqODh6GavR-5xP9sbI8osfJNCqo1e-XH6oS_eBBsVKI75kmO9w3Km_6X5WsHfrBdn3e-r3qFNdhSPIaobdrK63uOChT-pf9MelPK3GUz9nZuaqtZ7h2qenGWJFUB99IFfeRNQgxTIsS0kHRMAtfuxKtTx7QcbUpqoVMuwktO5z92Hl1qkKjUEaNNn0dDRiws4T4K182AXdNDEwMljV2KpmZS8Anr35IWmIGKeRgNbzQt1OFFrWJ3lpffPmSDSKkRESo8W3wnlA7w7UTDh9zV4u0V-KpJugR7WbuFDA0bozlz-18-2W7eTwqaLFI4Hr1rY1ZPi96VYT4DkJcS_2yL6aTUHbkdx1w0Q3omiFJEGviWmIzPqCUh-PwibyNaJ=w797-h145-no)
+![Image](img42.png)
 
 ### In the code below . . .
 ```
